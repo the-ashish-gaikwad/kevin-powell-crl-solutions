@@ -16,3 +16,11 @@ The 21-day "drip" challenge aims to transform a "desktop-first" approach—often
 - **Days 1-7**: Fundamentals of percentages, `max-width`, and avoiding fixed heights for better adaptability.
 - **Days 8-14**: In-depth exploration of Flexbox for precise alignment, distribution, and responsive navigation.
 - **Days 15-21**: Advanced projects incorporating media queries and sophisticated layout strategies to solidify responsive principles.
+
+## Certificate
+Upon completion of the course, I earned the following certificate:
+### 📜 Certificate of Completion
+![Certificate of Completion](./assets/certificate.png)
+
+
+
