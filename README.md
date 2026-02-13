@@ -19,7 +19,7 @@ The 21-day "drip" challenge aims to transform a "desktop-first" approach—often
 
 ## Certificate
 Upon completion of the course, I earned the following certificate:
-![Certificate of Completion](./assets/certificate.pdf)
+![Certificate of Completion](./assets/certificate.png)
 
 
 
