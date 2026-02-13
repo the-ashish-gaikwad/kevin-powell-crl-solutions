@@ -18,7 +18,9 @@ The 21-day "drip" challenge aims to transform a "desktop-first" approach—often
 - **Days 15-21**: Advanced projects incorporating media queries and sophisticated layout strategies to solidify responsive principles.
 
 ## Certificate
+
 Upon completion of the course, I earned the following certificate:
+
 ![Certificate of Completion](./assets/certificate.png)
 
 
